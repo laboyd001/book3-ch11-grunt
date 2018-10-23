@@ -1,0 +1,54 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "Linguine",
+      "type": "pasta",
+      "ethnicity": "italian"
+    },
+    {
+      "name": "Red curry",
+      "type": "curry",
+      "ethnicity": "thai",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Green curry",
+      "type": "curry",
+      "ethnicity": "thai"
+    },
+    {
+      "id": 4,
+      "name": "Ravioli Funghi",
+      "type": "pasta",
+      "ethnicity": "italian"
+    },
+    {
+      "id": 5,
+      "name": "Tuscan Soup",
+      "type": "vegetarian",
+      "ethnicity": "italian"
+    },
+    {
+      "name": "Doritos",
+      "type": "junk",
+      "ethnicity": "'murcan",
+      "id": 7
+    },
+    {
+      "name": "Mint Chocolate Chip",
+      "type": "ice cream",
+      "ethnicity": "yummy",
+      "id": 8
+    }
+  ],
+  "drink": [
+    {
+      "name": "water",
+      "type": "free",
+      "ethnicity": "organic",
+      "id": 1
+    }
+  ]
+}
